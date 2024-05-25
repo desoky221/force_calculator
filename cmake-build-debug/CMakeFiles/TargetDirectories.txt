@@ -1,0 +1,3 @@
+C:/Users/youss/OneDrive/سطح المكتب/projects/force_calculator/cmake-build-debug/CMakeFiles/force_calculator.dir
+C:/Users/youss/OneDrive/سطح المكتب/projects/force_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/youss/OneDrive/سطح المكتب/projects/force_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
